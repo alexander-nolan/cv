@@ -1,4 +1,4 @@
-**Contact Details**
+# Contact Details
 
 Name: Alexander Nolan
 
@@ -12,13 +12,13 @@ Telephone: 07915827726
 
 Location: Liverpool, UK
 
-**Personal profile**
+# Personal profile
 
 GCP Professional Architect certified. MCSE (Azure) certified. AWS Professional DevOps Engineer certified.
 
-**Career Profile**
+# Career Profile
 
-**TPXImpact (Contract)**
+## TPXImpact (Contract)
 
 **July 2024 – Present**
 
@@ -48,7 +48,7 @@ GCP Professional Architect certified. MCSE (Azure) certified. AWS Professional D
 - Advocate for agile/IaC practices across the wider business and client.
 - Set up regular sessions for engineers to advocate for the usage of terraform, explain the benefits and coach team members.
 
-**Innovationinsoftware (Contract)**
+## Innovationinsoftware (Contract)
 
 **August 2024 – Present**
 
@@ -66,7 +66,7 @@ GCP Professional Architect certified. MCSE (Azure) certified. AWS Professional D
 - Open Policy Agent
 - Github Actions
 
-**Fluid Digital (Contract)**
+## Fluid Digital (Contract)
 
 **August 2024 – November 2024**
 
@@ -83,7 +83,7 @@ GCP Professional Architect certified. MCSE (Azure) certified. AWS Professional D
 - Rewrite terraform code. Import all resources into new terraform codebase.
 - Monitor and maintain infrastructure during high profile production campaign
 
-**TerraQuest Data Solutions (Contract)**
+## TerraQuest Data Solutions (Contract)
 
 **July 2023 – July 2024**
 
@@ -109,14 +109,14 @@ GCP Professional Architect certified. MCSE (Azure) certified. AWS Professional D
 - Split out products from monolithic terraform codebase
   - Designed, tested and implemented migration process including app services, function apps, database, service bus, new app gateway
   - Designed and implemented terraform state migration process for servicebus topics, subscriptions and correlation filters for organisation wide shared servicebus. This allowed us to move terraform resources from one project to another with zero downtime and no lost messages.
-- Ran monthly ‘lunch and learn’ sessions for the engineering team. This generally involves a high level of overview, or deep dives on subjects such as:
+- Ran monthly 'lunch and learn' sessions for the engineering team. This generally involves a high level of overview, or deep dives on subjects such as:
   - Kubernetes
   - Networking
   - CI/CD pipelines
   - Terraform best practices
   - Client specific implementations of the above subjects
 
-**Lloyds Banking Group (Contract via Publicis Sapient)**
+## Lloyds Banking Group (Contract via Publicis Sapient)
 
 **November 2022 – July 2023**
 
@@ -132,14 +132,14 @@ GCP Professional Architect certified. MCSE (Azure) certified. AWS Professional D
 - Created Multiple connectivity option Architectural Decision document and presented to AD forum
 - Designed and built archetype to automate creation of Shared VPC Service projects and associated terraform cloud workspaces
 - Designed and built elements of archetype to automate the creation of network composite module for other teams
-- Running monthly ‘lunch and learn’ sessions for the engineering team. This generally involves a high level of overview, or deep dives on subjects such as:
+- Running monthly 'lunch and learn' sessions for the engineering team. This generally involves a high level of overview, or deep dives on subjects such as:
   - Kubernetes
   - Networking
   - CI/CD pipelines
   - Terraform best practices
   - Client specific implementations of the above subjects
 
-**Virgin Media O2**
+## Virgin Media O2
 
 **January 2022 – November 2022**
 
@@ -147,7 +147,7 @@ GCP Professional Architect certified. MCSE (Azure) certified. AWS Professional D
 
 **Environment/Tooling:** AWS, EKS, Amazon S3, AWS IAM, AWS Codebuild, Elastic Load Balancer, CloudFormation, Route53, Google Cloud Platform, Gitlab Pipelines, Gitlab repos, Jira, confluence, GCP IAM, Google Kubernetes Engine, terraform, Hashicorp Vault, helm, Apigee, Istio/Anthos Service Mesh, env0, Angular, IaaS, PaaS, Linux containers (mostly alpine), bash
 
-**Responsibilities:** Hired as a senior team member with existing GCP and kubernetes experience. Due to my previous experience building new environments from scratch I was immediately given high priority, high visibility work on the company CMS system that’s integrated into the main, publicly facing website.
+**Responsibilities:** Hired as a senior team member with existing GCP and kubernetes experience. Due to my previous experience building new environments from scratch I was immediately given high priority, high visibility work on the company CMS system that's integrated into the main, publicly facing website.
 
 Projects:
 
@@ -157,9 +157,9 @@ Projects:
 - Involved in setting up new folders, GARs, IAM etc for onboarding new departments. This was done via a complex process using env0 scripts. Was able to perform this task in a matter of days when the average time of completion prior to that was several weeks
 - Proposed improvements for evergreening Infrastructure components, such as GKE, terraform modules, container images
 - Worked in an extremely complex environment with repos nested inside of repos, terraform modules calling on multiple other modules and have a very good understanding of what an enterprise Infrastructure codebase should look like and how to design and navigate it.
-- Mentored teammates on best practices around upgrades, security and helped various team members gain a better understanding of Kubernetes, IaC, VCS’.
+- Mentored teammates on best practices around upgrades, security and helped various team members gain a better understanding of Kubernetes, IaC, VCS'.
 
-**Freshfields Bruckhaus Deringer**
+## Freshfields Bruckhaus Deringer
 
 **September 2020 – January 2022**
 
@@ -176,11 +176,11 @@ Projects:
 - Migrated existing ETL process into Azure Data Factory – Converted SSIS packages into Azure compatible versions and moved them into Azure SQL DB (SSISDB) using the Azure-SSIS integration runtime. Created ETL workflow in Azure Data Factory (ADF) with the same functionality as the existing on-prem workflow.
 - Given lead on another project which is due to commence after the current one. This is also migrating a SaaS application into AKS
 - Responsible for managing and maintaining Azure AD groups and delegating permissions to other users within the tenant. Identified multiple improvements that could be made in terms of user management, security and costing.
-- Running monthly training sessions for other engineers to attend. Currently we’re focusing on Docker and Kubernetes.
+- Running monthly training sessions for other engineers to attend. Currently we're focusing on Docker and Kubernetes.
 
-Finally, I was nominated for an internal award at the company – “The Do-er” within 3 months of being at the company. I believe this is due to my unwavering approach to delivery.
+Finally, I was nominated for an internal award at the company – "The Do-er" within 3 months of being at the company. I believe this is due to my unwavering approach to delivery.
 
-**Yozu**
+## Yozu
 
 **April 2019 – September 2020**
 
@@ -190,7 +190,7 @@ Finally, I was nominated for an internal award at the company – “The Do-er�
 
 **Supported application environment:** Ruby on rails, sidekiq, redis, react, ELK, graylog, Prometheus/Grafana, mysql, postgres, mongodb, nginx, apache, IIS, docker, kubernetes, ansible, terraform, AWX, bitbucket, jira, asterisk, freepbx, sage, exchange, dynamics CRM, Sharepoint, bash/powershell, bitbucket pipelines, helm, skaffold, google cloud build, vagrant
 
-**Responsibilities:** Solely responsible for building and maintaining the infrastructure for multiple bespoke applications, as well as designing, testing and debugging CI/CD pipelines. Our environment includes over 30 virtual machines located either on site or in the cloud. I am solely responsible for creating and maintaining virtual machine instances, kubernetes clusters, docker environments, VPCs, IAM settings, firewall settings, diagnosing proxy issues, diagnosing database issues, diagnosing performance issues on core infrastructure, for instance - disk space issues. Creating and maintaining DNS records, creating and maintaining SSL certificates, creating scripts to automatically fix server and container side issues and configuring alerts. Committing all infrastructure code to source control. I’m also responsible for 4 physical servers, (over 20 Hyper-V VMs), including 2 separate active directory domains, 2 separate VOIP systems, exchange server, CRM, Sharepoint, backups etc. Racking and configuring Unifi security gateway/router and switches including opening and forwarding correct ports, port forwarding and creating security settings.  
+**Responsibilities:** Solely responsible for building and maintaining the infrastructure for multiple bespoke applications, as well as designing, testing and debugging CI/CD pipelines. Our environment includes over 30 virtual machines located either on site or in the cloud. I am solely responsible for creating and maintaining virtual machine instances, kubernetes clusters, docker environments, VPCs, IAM settings, firewall settings, diagnosing proxy issues, diagnosing database issues, diagnosing performance issues on core infrastructure, for instance - disk space issues. Creating and maintaining DNS records, creating and maintaining SSL certificates, creating scripts to automatically fix server and container side issues and configuring alerts. Committing all infrastructure code to source control. I'm also responsible for 4 physical servers, (over 20 Hyper-V VMs), including 2 separate active directory domains, 2 separate VOIP systems, exchange server, CRM, Sharepoint, backups etc. Racking and configuring Unifi security gateway/router and switches including opening and forwarding correct ports, port forwarding and creating security settings.  
 <br/>
 
 **Projects:**
@@ -203,7 +203,7 @@ Finally, I was nominated for an internal award at the company – “The Do-er�
 - Created an ansible library for various infrastructure components. For instance server security settings, Kubernetes dev environments.
 - Solely responsible for creating and maintaining 2 kubernetes clusters for 2 separate production applications. (One brownfield and one greenfield). Main deployment tool used being helm. Helm subcharts implemented including cert-manager, redis-sentinel, nginx-ingress-controller and Prometheus-operator. Mozilla sops utilised to encrypt data at rest. CI/CD solution is Google Cloud Build. DB-migrate solution using helm hooks.
 
-**Getthelabel.com/Topgrade sportswear**
+## Getthelabel.com/Topgrade sportswear
 
 **May 2015 – March 2019**
 
@@ -226,7 +226,7 @@ Finally, I was nominated for an internal award at the company – “The Do-er�
 - Setup IT infrastructure at various retail stores around the country, including till/device setup, camera setup, music/speaker system setup & ADSL router setup.
 - Co-Installed up to 50 CCTV cameras & DVR system inside our warehouse
 
-**Startek**
+## Startek
 
 **May 2014 – May 2015** (Unpaid – Part time for 6 months, full time for 6 months.)
 
@@ -243,13 +243,13 @@ Finally, I was nominated for an internal award at the company – “The Do-er�
 - Handling customer grievances in a timely manner.
 - Offering friendly and professional customer service. Providing after sales support, including telephone and remote support.
 
-**B&M retail**
+## B&M retail
 
 **Jul 2011-October 2014**
 
 **Role:** Various. (Warehouse operative, warehouse trainer, POS assistant, Accounts assistant.)
 
-##### **Certifications**
+# Certifications
 
 **AWS DevOps Engineer Professional –** August 2023
 
@@ -285,4 +285,6 @@ Finally, I was nominated for an internal award at the company – “The Do-er�
 
 **Forklift Counterbalance & Forklift reach licences (Expired)** – 2012 (Self funded)
 
-**Hobbies:** Mixed Martial arts training. (BJJ Purple belt, Muay Thai and Wrestling.) Playing Guitar and singing. (Previously been in a metal band as a singer.) Playing and watching sports, mainly football. Cryptocurrency HODLing. Occasional video game player
+# Hobbies
+
+Mixed Martial arts training. (BJJ Purple belt, Muay Thai and Wrestling.) Playing Guitar and singing. (Previously been in a metal band as a singer.) Playing and watching sports, mainly football. Cryptocurrency HODLing. Occasional video game player
