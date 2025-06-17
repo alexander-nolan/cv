@@ -6,13 +6,49 @@
 **Email:** [al.nolan@gmail.com](mailto:al.nolan@gmail.com)  
 **Phone:** +44 7915 827726  
 **LinkedIn:** [linkedin.com/in/alex-nolan-41929594](https://www.linkedin.com/in/alex-nolan-41929594/)  
-**Website:** [sudocloud.io](https://sudocloud.io)
+**Website:** [sudocloud.io](https://sudocloud.io) (IT Consultancy)
 
 # Personal Profile
 
 Lead DevOps Engineer with extensive experience in cloud architecture and infrastructure automation. Certified Professional Architect in Google Cloud Platform (GCP), Microsoft Azure (MCSE), and AWS DevOps. Proven track record in designing and implementing scalable cloud solutions, managing complex infrastructure deployments, and driving digital transformation initiatives. Expert in Infrastructure as Code (IaC), containerization, and CI/CD pipeline optimization across major cloud platforms.
 
 # Career Profile
+
+## The Pools
+
+**February 2025 – Present**
+
+**Role**: DevOps Consultant
+
+**Technical Stack:** Microsoft Azure, Azure DevOps, Azure Container Apps, Azure PostgreSQL, Azure Cache for Redis, Ruby on Rails, .NET, Docker, Terraform, Python, Infrastructure as Code (IaC), CI/CD, Database Migration, Network Architecture
+
+**Responsibilities:** Lead the transformation and migration of enterprise applications to Azure:
+
+- Architected and implemented cloud infrastructure:
+  - Migrated distributed monolith to Azure Container Apps
+  - Designed and implemented VNET architecture
+  - Created reusable Terraform modules for Container Apps and PostgreSQL
+  - Implemented Azure Cache for Redis migration
+- Led database migration and optimization:
+  - Executed zero-downtime PostgreSQL migration using pglogical
+  - Implemented logical replication strategies
+  - Optimized database performance and reliability
+  - Established database monitoring and alerting
+- Developed infrastructure automation:
+  - Created comprehensive CI/CD pipeline templates
+  - Implemented infrastructure as code best practices
+  - Developed Python scripts for infrastructure visualization
+  - Established automated testing frameworks
+- Enhanced development processes:
+  - Set up unit testing environment using Docker Compose
+  - Implemented approval gates and deployment controls
+  - Created technical documentation and runbooks
+  - Established infrastructure management guidelines
+- Drove organizational change:
+  - Conducted stakeholder meetings for infrastructure planning
+  - Identified and addressed VNET/subnet scalability issues
+  - Mentored team members on Terraform and infrastructure management
+  - Provided regular project updates and timelines
 
 ## TPXImpact (Contract)
 
