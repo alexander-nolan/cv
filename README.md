@@ -10,7 +10,7 @@
 
 # Personal Profile
 
-Lead DevOps Engineer with extensive experience in cloud architecture and infrastructure automation. Certified Professional Architect in Google Cloud Platform (GCP), Microsoft Azure (MCSE), and AWS DevOps. Proven track record in designing and implementing scalable cloud solutions, managing complex infrastructure deployments, and driving digital transformation initiatives. Expert in Infrastructure as Code (IaC), containerization, and CI/CD pipeline optimization across major cloud platforms.
+Lead DevOps Engineer with extensive experience in cloud architecture and infrastructure automation. Certified Professional Architect in Google Cloud Platform (GCP), Microsoft Azure (MCSE), and AWS DevOps. Proven track record in designing and implementing scalable cloud solutions, managing complex infrastructure deployments, and driving digital transformation initiatives. Expert in Infrastructure as Code (IaC), containerisation, and CI/CD pipeline optimisation across major cloud platforms.
 
 # Career Profile
 
@@ -29,7 +29,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
   - Designed and implemented VNET architecture
   - Created reusable Terraform modules for Container Apps and PostgreSQL
   - Implemented Azure Cache for Redis migration
-- Led database migration and optimization:
+- Led database migration and optimisation:
   - Executed zero-downtime PostgreSQL migration using pglogical
   - Implemented logical replication strategies
   - Optimized database performance and reliability
@@ -37,14 +37,14 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
 - Developed infrastructure automation:
   - Created comprehensive CI/CD pipeline templates
   - Implemented infrastructure as code best practices
-  - Developed Python scripts for infrastructure visualization
+  - Developed Python scripts for infrastructure visualisation
   - Established automated testing frameworks
 - Enhanced development processes:
   - Set up unit testing environment using Docker Compose
   - Implemented approval gates and deployment controls
   - Created technical documentation and runbooks
   - Established infrastructure management guidelines
-- Drove organizational change:
+- Drove organisational change:
   - Conducted stakeholder meetings for infrastructure planning
   - Identified and addressed VNET/subnet scalability issues
   - Mentored team members on Terraform and infrastructure management
@@ -74,7 +74,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
   - Refactored existing Terraform codebase for improved maintainability
   - Imported legacy resources into Terraform state management
   - Established standardized CI/CD pipelines for infrastructure deployment
-- Drove organizational change through knowledge sharing:
+- Drove organisational change through knowledge sharing:
   - Conducted regular technical workshops on IaC best practices
   - Mentored engineering teams in Terraform implementation
   - Advocated for DevOps principles and agile methodologies
@@ -110,9 +110,9 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
 
 **Technical Stack:** Amazon Web Services (AWS), Elastic Container Service (ECS), IAM, Route53, Terraform, GitHub Actions, EC2, Elastic Load Balancing (ELB), DatoCMS, Infrastructure as Code (IaC), CI/CD
 
-**Responsibilities:** Led the transformation and optimization of cloud infrastructure and deployment processes:
+**Responsibilities:** Led the transformation and optimisation of cloud infrastructure and deployment processes:
 
-- Orchestrated comprehensive infrastructure modernization:
+- Orchestrated comprehensive infrastructure modernisation:
   - Refactored and standardized Terraform codebase
   - Migrated all manually created resources into Terraform state
   - Implemented consistent infrastructure patterns across environments
@@ -125,7 +125,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
   - Automated content deployment through CI/CD pipeline
   - Established reliable content update workflows
 - Ensured infrastructure stability during high-traffic periods:
-  - Monitored system performance and resource utilization
+  - Monitored system performance and resource utilisation
   - Implemented proactive scaling measures
   - Maintained 99.9% uptime during critical campaign periods
 
@@ -144,7 +144,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
   - Reconfigured Application Gateway for optimal security and performance
   - Implemented comprehensive WAF rule sets and traffic management
   - Optimized load balancer configurations for improved reliability
-- Drove infrastructure modernization:
+- Drove infrastructure modernisation:
   - Migrated monolithic Terraform codebase to modular architecture
   - Designed and executed zero-downtime migration strategy for:
     - App Services and Function Apps
@@ -221,8 +221,8 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
   - Implemented comprehensive IAM controls
   - Configured network security and firewall rules
   - Established monitoring and logging solutions
-  - Optimized resource utilization and costs
-- Drove infrastructure modernization:
+  - Optimized resource utilisation and costs
+- Drove infrastructure modernisation:
   - Proposed and implemented infrastructure evergreen strategies
   - Refactored complex Terraform modules
   - Standardized container image management
@@ -241,9 +241,9 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
 
 **Technical Stack:** Microsoft Azure, Azure DevOps Pipelines, Azure Repos, Jira, Bitbucket, Confluence, Azure AD, Azure Kubernetes Service (AKS), Azure VNET, Azure NSG, Terraform, Helm, Azure SQL, Azure PostgreSQL, OracleDB, Visual Studio, Azure Data Factory, SSIS, Elasticsearch, .NET Applications, IIS, IaaS, PaaS, Linux/Windows Containers, PowerBI, PowerShell
 
-**Responsibilities:** Led cloud transformation initiatives and platform modernization:
+**Responsibilities:** Led cloud transformation initiatives and platform modernisation:
 
-- Orchestrated application migration and modernization:
+- Orchestrated application migration and modernisation:
   - Migrated .NET applications to AKS with zero downtime
   - Optimized Azure DevOps pipelines using YAML
   - Streamlined build processes and reduced deployment times
@@ -261,7 +261,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
 - Enhanced security and governance:
   - Managed Azure AD groups and permissions
   - Implemented security best practices
-  - Optimized resource utilization and costs
+  - Optimized resource utilisation and costs
   - Established governance frameworks
 - Drove knowledge sharing and team development:
   - Conducted monthly technical workshops
