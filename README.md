@@ -30,7 +30,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
   - Created reusable Terraform modules for Container Apps and PostgreSQL
   - Implemented Azure Cache for Redis migration
 - Led database migration and optimisation:
-  - Executed zero-downtime PostgreSQL migration using pglogical
+  - Executed zero-downtime legacy PostgreSQL migration using pglogical
   - Implemented logical replication strategies
   - Optimised database performance and reliability
   - Established database monitoring and alerting
