@@ -20,7 +20,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
 
 **Role**: DevOps Consultant
 
-**Technical Stack:** Microsoft Azure, Azure DevOps, Azure Container Apps, Azure PostgreSQL, Azure Cache for Redis, Ruby on Rails, .NET, Docker, Terraform, Python, Infrastructure as Code (IaC), CI/CD, Database Migration, Network Architecture
+**Technical Stack:** Microsoft Azure, Azure DevOps, Azure Container Apps, Azure PostgreSQL, CosmosDB, Azure Cache for Redis, Ruby on Rails, .NET, Docker, Terraform, Python, Infrastructure as Code (IaC), CI/CD, Database Migration, Network Architecture
 
 **Responsibilities:** Lead the transformation and migration of enterprise applications to Azure:
 
