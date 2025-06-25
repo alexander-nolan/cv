@@ -3,7 +3,7 @@
 **Name:** Alexander Nolan  
 **Location:** Liverpool, United Kingdom  
 **Nationality:** British  
-**Email:** [al.nolan@gmail.com](mailto:al.nolan@gmail.com)  
+**Email:** [alexander.nolan@sudocloud.io](mailto:alexander.nolan@sudocloud.io)  
 **Phone:** +44 7915 827726  
 **LinkedIn:** [linkedin.com/in/alex-nolan-41929594](https://www.linkedin.com/in/alex-nolan-41929594/)  
 **Website:** [sudocloud.io](https://sudocloud.io)
