@@ -32,7 +32,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
 - Led database migration and optimisation:
   - Executed zero-downtime PostgreSQL migration using pglogical
   - Implemented logical replication strategies
-  - Optimized database performance and reliability
+  - Optimised database performance and reliability
   - Established database monitoring and alerting
 - Developed infrastructure automation:
   - Created comprehensive CI/CD pipeline templates
@@ -143,7 +143,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
   - Designed and deployed reusable WAF policies using Terraform
   - Reconfigured Application Gateway for optimal security and performance
   - Implemented comprehensive WAF rule sets and traffic management
-  - Optimized load balancer configurations for improved reliability
+  - Optimised load balancer configurations for improved reliability
 - Drove infrastructure modernisation:
   - Migrated monolithic Terraform codebase to modular architecture
   - Designed and executed zero-downtime migration strategy for:
@@ -221,7 +221,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
   - Implemented comprehensive IAM controls
   - Configured network security and firewall rules
   - Established monitoring and logging solutions
-  - Optimized resource utilisation and costs
+  - Optimised resource utilisation and costs
 - Drove infrastructure modernisation:
   - Proposed and implemented infrastructure evergreen strategies
   - Refactored complex Terraform modules
@@ -245,7 +245,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
 
 - Orchestrated application migration and modernisation:
   - Migrated .NET applications to AKS with zero downtime
-  - Optimized Azure DevOps pipelines using YAML
+  - Optimised Azure DevOps pipelines using YAML
   - Streamlined build processes and reduced deployment times
   - Enhanced Kubernetes cluster performance and reliability
 - Developed proof-of-concept solutions:
@@ -261,7 +261,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
 - Enhanced security and governance:
   - Managed Azure AD groups and permissions
   - Implemented security best practices
-  - Optimized resource utilisation and costs
+  - Optimised resource utilisation and costs
   - Established governance frameworks
 - Drove knowledge sharing and team development:
   - Conducted monthly technical workshops
@@ -294,7 +294,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
   - Implemented Mozilla SOPS for data encryption
   - Established SSL certificate management
   - Configured network security and firewall rules
-- Optimized deployment processes:
+- Optimised deployment processes:
   - Implemented CI/CD pipelines using Bitbucket and Google Cloud Build
   - Configured Helm charts for application deployment
   - Established automated database migration processes
@@ -316,7 +316,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
 **Responsibilities:** Led IT infrastructure management and support operations:
 
 - Managed enterprise infrastructure:
-  - Maintained and optimized server infrastructure
+  - Maintained and optimised server infrastructure
   - Implemented security patches and updates
   - Configured and maintained Active Directory
   - Managed group policy administration
@@ -325,7 +325,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
   - Established security incident response procedures
   - Configured network security policies
   - Managed access control and permissions
-- Optimized business applications:
+- Optimised business applications:
   - Maintained retail and warehouse management systems
   - Supported call center operations
   - Managed POS systems and payment processing
@@ -361,7 +361,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
   - Developed service recommendations
   - Provided remote and on-site technical assistance
   - Maintained customer relationship management
-- Optimized business operations:
+- Optimised business operations:
   - Managed inventory and parts procurement
   - Implemented stock management systems
   - Developed service documentation
@@ -385,7 +385,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
 - Managed warehouse operations:
   - Coordinated inventory management and stock control
   - Implemented efficient picking and packing processes
-  - Optimized warehouse layout and storage solutions
+  - Optimised warehouse layout and storage solutions
   - Maintained accurate inventory records
 - Led training and development:
   - Developed and delivered warehouse training programs
