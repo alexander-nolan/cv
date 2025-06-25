@@ -73,7 +73,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
 - Led technical transformation initiatives:
   - Refactored existing Terraform codebase for improved maintainability
   - Imported legacy resources into Terraform state management
-  - Established standardized CI/CD pipelines for infrastructure deployment
+  - Established standardised CI/CD pipelines for infrastructure deployment
 - Drove organisational change through knowledge sharing:
   - Conducted regular technical workshops on IaC best practices
   - Mentored engineering teams in Terraform implementation
@@ -113,12 +113,12 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
 **Responsibilities:** Led the transformation and optimisation of cloud infrastructure and deployment processes:
 
 - Orchestrated comprehensive infrastructure modernisation:
-  - Refactored and standardized Terraform codebase
+  - Refactored and standardised Terraform codebase
   - Migrated all manually created resources into Terraform state
   - Implemented consistent infrastructure patterns across environments
 - Enhanced CI/CD pipeline efficiency:
   - Resolved critical pipeline issues affecting image deployment
-  - Synchronized staging and production environments
+  - Synchronised staging and production environments
   - Implemented automated deployment workflows
 - Integrated content management with deployment processes:
   - Developed DatoCMS webhook integration with GitHub Actions
@@ -183,7 +183,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
 - Developed infrastructure automation frameworks:
   - Created reusable Terraform modules for network components
   - Designed automated archetype system for infrastructure provisioning
-  - Implemented standardized network composite modules
+  - Implemented standardised network composite modules
   - Established Terraform Cloud workspaces for state management
 - Drove technical innovation and best practices:
   - Created and presented architectural decision records (ADRs)
@@ -225,7 +225,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
 - Drove infrastructure modernisation:
   - Proposed and implemented infrastructure evergreen strategies
   - Refactored complex Terraform modules
-  - Standardized container image management
+  - Standardised container image management
   - Improved deployment processes and reliability
 - Mentored and developed team capabilities:
   - Provided technical guidance on Kubernetes operations
@@ -332,7 +332,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
   - Configured email and communication systems
 - Drove infrastructure improvements:
   - Developed automated OS deployment system
-  - Implemented standardized build processes
+  - Implemented standardised build processes
   - Created comprehensive system documentation
   - Established backup and recovery procedures
 - Led retail infrastructure deployment:
@@ -389,7 +389,7 @@ Lead DevOps Engineer with extensive experience in cloud architecture and infrast
   - Maintained accurate inventory records
 - Led training and development:
   - Developed and delivered warehouse training programs
-  - Created standardized operating procedures
+  - Created standardised operating procedures
   - Mentored new team members
   - Established performance metrics and standards
 - Enhanced retail operations:
